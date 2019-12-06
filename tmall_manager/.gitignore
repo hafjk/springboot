@@ -1,6 +1,8 @@
 HELP.md
 target/
 .idea/workspace.xml
+.idea/
+
 tmall_manager/.gitignore
 
 !.mvn/wrapper/maven-wrapper.jar
